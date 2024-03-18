@@ -44,7 +44,8 @@ admin.site.register (Book,Display_book)
 ```
 
 ## OUTPUT
-![Screenshot 2024-03-18 133816](https://github.com/Rohanjeyachandiran/ORM/assets/161102491/962cc317-f3bc-4aaa-a908-a635c0febf6e)
+ ![Screenshot 2024-03-18 133816](https://github.com/Rohanjeyachandiran/ORM/assets/161102491/688ce382-531b-40b5-a403-02afde93ad45)
+
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
